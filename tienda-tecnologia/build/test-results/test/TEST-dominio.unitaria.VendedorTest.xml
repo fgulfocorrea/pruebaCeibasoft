@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="dominio.unitaria.VendedorTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-06-07T18:47:46" hostname="CTG-114-PCa" time="0.437">
+  <properties/>
+  <testcase name="productoNoTieneGarantiaTest" classname="dominio.unitaria.VendedorTest" time="0.436"/>
+  <testcase name="productoYaTieneGarantiaTest" classname="dominio.unitaria.VendedorTest" time="0.001"/>
+  <system-out><![CDATA[noTieneGarantia:F01TSA0150
+tieneGarantia:F01TSA0150
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
